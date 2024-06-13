@@ -8,7 +8,7 @@ putting html text in README file
 **Bold**
 *Italic*
 
-<p aligin="center">
+<p align="center">
     <img width="200" src="./images/apple_stock_today.jpg">
 </p>
 
